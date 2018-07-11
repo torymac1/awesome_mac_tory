@@ -12,7 +12,7 @@
 
 - [Skim](https://skim-app.sourceforge.io) （好用的pdf阅读器）
 
-- [PDF expert](https://pdfexpert.com) (功能更强大的pdf阅读器，可以直接在pdf文件上写字、签名，但是收费要好几十刀，我帮你找找打折版)
+- [Pdf expert](https://pdfexpert.com) (功能更强大的pdf阅读器，可以直接在pdf文件上写字、签名，但是收费要好几十刀，我帮你找找打折版)
 
 - [Spark](https://sparkmailapp.com) (邮件客户端，比系统自带的好用)
 
