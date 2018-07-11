@@ -4,11 +4,11 @@
 
 ### 学习办公
 
-- [搜狗输入法] (https://pinyin.sogou.com/mac/)  （无广告，词库齐全，流畅）
+- [搜狗输入法](https://pinyin.sogou.com/mac/)  （无广告，词库齐全，流畅）
 
-- [Office 365] (https://its.northeastern.edu/services/available-software/student-advantage/)
+- [Office 365](https://its.northeastern.edu/services/available-software/student-advantage/)
 
-- [Google docs] (https://www.google.com/docs/about/) （在线编辑，无客户端，我觉得比office好用）
+- [Google docs](https://www.google.com/docs/about/) （在线编辑，无客户端，我觉得比office好用）
 
 - [Skim](https://skim-app.sourceforge.io) （好用的pdf阅读器）
 
