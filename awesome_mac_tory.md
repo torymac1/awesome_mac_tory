@@ -4,9 +4,11 @@
 
 ### 学习办公
 
-- Office 365
+- (搜狗输入法)[https://pinyin.sogou.com/mac/]  （无广告，词库齐全，流畅）
 
-- Google docs （在线编辑，无客户端，我觉得比office好用）
+- (Office 365)[https://its.northeastern.edu/services/available-software/student-advantage/]
+
+- (Google docs)[https://www.google.com/docs/about/] （在线编辑，无客户端，我觉得比office好用）
 
 - [Skim](https://skim-app.sourceforge.io) （好用的pdf阅读器）
 
@@ -23,18 +25,18 @@
 ### 娱乐
 
 - [网易云音乐](https://music.163.com/#/download)
-- 虾米音乐
+- [虾米音乐](https://www.xiami.com/apps/mobile?spm=a1z1s.6843761.226669510.7.2ALIrG)
 - [Chrome](https://www.google.com/chrome/) （比sarfari浏览器更流畅，但是比较费电）
 - [微信](https://weixin.qq.com)
   
 
 ### 进阶工具
 
-- Sublime Text （文本编辑器类似于记事本，mac自带的文本编辑器不好用） 
+- [Sublime Text](https://www.sublimetext.com) （文本编辑器，类似于记事本，mac自带的文本编辑器不好用） 
 
-- Typora (平时做笔记写文章用，支持markdown格式，书写起来很流畅)
+- [Typora](https://typora.io) (平时做笔记写文章用，支持markdown格式，书写起来很流畅)
 
-- Alfred (系统搜索工具，比自带的spotlight好用)
+- [Alfred](https://www.alfredapp.com) (系统搜索工具，比自带的spotlight好用)
 
 - Google backup (同步工具，保证文件和云端同步，不会意外丢失)
 
