@@ -20,6 +20,7 @@
 
 - [Shadowsocks-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/) (翻墙工具，下载也需要翻墙)
 
+- Keynote （苹果自带的做ppt的软件，可以做出很好看的ppt，比powerpoint好用）
   
 
 ### 娱乐
@@ -28,6 +29,8 @@
 - [虾米音乐](https://www.xiami.com/apps/mobile?spm=a1z1s.6843761.226669510.7.2ALIrG)
 - [Chrome](https://www.google.com/chrome/) （比sarfari浏览器更流畅，但是比较费电）
 - [微信](https://weixin.qq.com)
+- [Maipo](https://weiboformac.sinaapp.com) （微博客户端）
+- Apple Music （每个月6刀，去了美国听音乐用）
   
 
 ### 进阶工具
